@@ -1,0 +1,8 @@
+% 3.main function for FOURIER TRANSFORM of u(t+2)-u(t-2)
+clear all
+close all
+syms t
+x=heaviside(t)-heaviside(t-2)
+[ x ]=fourierfind(x);
+disp('fourier transform of x=')
+disp(x)

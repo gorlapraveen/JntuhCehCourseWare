@@ -1,0 +1,8 @@
+% 4.main function for FOURIER TRANSFORM of TRIANGLE
+clear all
+close all
+syms t
+x=int(0.4*heaviside(t+5)-(4/5)*heaviside(t)+0.4*heaviside(t-))
+[ x ]=fourierfind(x);
+disp('fourier transform of x=')
+disp(x)

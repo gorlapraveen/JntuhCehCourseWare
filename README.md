@@ -18,5 +18,5 @@ This Repository contains:
 **Note** 
 
 1. We could not able to use Open Source Tools during our course work due to Academic restrictions However, it is encouragable to use OPen Source tools such as **Octave**, **Scilab** and **Code Blocks** .
-2. Matlab in 2014 is different after 2018, MATLAB, Today is more advanced and has more predefined functions when compared to 2014 versions.. 
+2. Matlab in 2014 is different after 2018. Matlab today, is more advanced and has more predefined functions when compared to 2014 versions.. 
            
